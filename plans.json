@@ -4,13 +4,13 @@
     {
       "status":"0",
       "link":"http://",
-      "pengaturan_iklan":"1",
+      "pengaturan_iklan":"2",
       "admob_open_ads":"",
-      "admob_banner":"ca-app-pub-3940256099942544/6300978111",
+      "admob_banner":"",
       "admob_inter":"",
       "admob_native":"",
       "interval":1,
-      "appodeal_apikey":"",
+      "appodeal_apikey":"0fb6f1cd9f5c3c22862ce86896fad24203ef4f1b83256686",
       "startappid":"",
       "mopub_banner":"",
       "mopub_inter":""
